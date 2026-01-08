@@ -3,6 +3,9 @@ This repository contains various artifacts, such as source code and other materi
 Human Experts to Classify Database Keys as Meaningful**.
 # Online demo
 Visit the [website](http://4b7a20e.r31.cpolar.top) to interview for keys online! If the link is not accessible, please report an issue.
+# Requirements for Demo Deployment
+> 1. Software requirements
+>> Java with version 17; Java Springboot
 # Deploy the demo on your PC
 ```bash
    download the jar file in Artifact/keyinterviewtool-0.0.1-SNAPSHOT.jar
