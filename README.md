@@ -1,5 +1,5 @@
 # Introduction
-This repository contains various artifacts, such as the technical paper and deployable demo for DD, which supplement our work on **Enter the Dragon’s Dojo: Computing Interview Questions for Human Experts to Classify Database Keys as Meaningful**.
+This repository contains various artifacts, such as the technical paper, demo video and deployable demo for DD, which supplement our work on **Enter the Dragon’s Dojo: Computing Interview Questions for Human Experts to Classify Database Keys as Meaningful**.
 # Online demo
 Visit the [website](http://4b7a20e.r31.cpolar.top) to interview for keys online! If the link is not accessible, please report an issue.
 # Requirements for demo deployment
