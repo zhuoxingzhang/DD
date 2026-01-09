@@ -1,4 +1,4 @@
-![diagram](https://github.com/ZhuoxingZhang/DD/Artifact/dragon.png)
+![diagram](https://github.com/zhuoxingzhang/DD/Artifact/dragon.png)
 # Introduction
 This repository contains various artifacts, such as the technical paper, demo video and deployable demo for DD, which supplement our work on **Enter the Dragon’s Dojo: Computing Interview Questions for Human Experts to Classify Database Keys as Meaningful**.
 # Online demo
