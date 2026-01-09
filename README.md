@@ -1,4 +1,4 @@
-<img src="Artifact/dragon1.png" alt="Dragon">
+<img src="Artifact/BlackDragon.png" alt="Dragon">
 
 # Introduction
 This repository contains various artifacts, such as the technical paper, demo video and deployable demo for DD, which supplement our work on **Enter the Dragon’s Dojo: Computing Interview Questions for Human Experts to Classify Database Keys as Meaningful**.
