@@ -15,7 +15,7 @@ The demo implements a single interview framework with three parameters: an **alg
 | **level-wise (LW)**          | `LW-TB`, `LW-BB` | `LW-TD`, `LW-BD` |
 | **dualize-and-advance (DA)** | `DA-TB`, `DA-BB` | `DA-TD`, `DA-BD` |
 
-The level-wise family moves through the lattice of column sets one column at a time. The dualize-and-advance family jumps directly to those column sets whose status is still open, which keeps the number of questions proportional to the number of minimal keys and maximal anti-keys rather than to the size of the search space.
+The level-wise family moves through the lattice of column sets one column at a time. The dualize-and-advance family jumps directly to those column sets whose status is still open, which bounds the number of questions linearly in the size of the border formed by the minimal keys and the maximal anti-keys, rather than in the size of the search space.
 
 # Online Demo
 
@@ -42,6 +42,10 @@ Visit the [website](https://deleted-stats-gratis-land.trycloudflare.com/) to int
    java -jar keyinterviewtool-0.0.1-SNAPSHOT.jar
    ```
 4. Visit `http://localhost:8080` to start the interview on your PC.
+
+# Experiments
+
+The technical paper reports experiments on the distribution of minimal keys, on the effect of schema size and on real-world data sets. This repository holds the paper, the demo and the video only; the code that runs those experiments, the data sets they read and the recorded results they produce are in the [key-interview](https://github.com/zhuoxingzhang/key-interview) repository, whose README describes how to reproduce each of them and which program writes each reported number.
 
 # Repository Contents
 
