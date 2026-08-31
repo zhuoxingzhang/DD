@@ -45,7 +45,7 @@ Visit the [website](https://deleted-stats-gratis-land.trycloudflare.com/) to int
 
 # Experiments
 
-The technical paper reports experiments on the distribution of minimal keys, on the effect of schema size and on real-world data sets. This repository holds the paper, the demo and the video only; the code that runs those experiments, the data sets they read and the recorded results they produce are in the [key-interview](https://github.com/zhuoxingzhang/key-interview) repository, whose README describes how to reproduce each of them and which program writes each reported number.
+The technical paper reports experiments on the distribution of minimal keys, on the effect of schema size and on real-world data sets. This repository holds the paper, the demo and the video only; the code that runs those experiments, the data sets they read and the recorded results they produce are in the artifact repository named in the availability statement of the paper, whose README describes how to reproduce each of them and which program writes each reported number.
 
 # Repository Contents
 
