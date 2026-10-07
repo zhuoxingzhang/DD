@@ -19,7 +19,7 @@ The level-wise family moves through the lattice of column sets one column at a t
 
 # Online Demo
 
-Visit the [website](https://euros-mph-phantom-lighter.trycloudflare.com/) to interview for keys online! If the link is not accessible, please report an issue.
+Visit the [website](https://key-interview-demo.onrender.com/) to interview for keys online! The demo runs on a free hosting plan: if it has been idle for a while, the first page load can take up to a minute while the server wakes up. If the link is not accessible, please report an issue.
 
 # Using the Demo
 
